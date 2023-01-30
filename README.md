@@ -421,7 +421,9 @@ body {
 }
 ```
 ##OUTPUT:
- file:///home/sec/Videos/Screenshot%20from%202023-01-30%2010-16-47.png
+ ![Screenshot from 2023-01-30 10-16-47](https://user-images.githubusercontent.com/118781418/215392093-5c8ca633-5db4-437d-90b1-47fe008bfaf8.png)
+ 
+
 
 
 
